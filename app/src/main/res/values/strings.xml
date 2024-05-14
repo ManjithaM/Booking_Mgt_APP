@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">Stay Well</string>
+    <string name="app_title"> STAY WELL </string>
+    <string name="about_hotel">"\nStay Well" is your one-stop solution for hotel bookings, offering convenience with just a single click. With our user-friendly interface, you can effortlessly find and reserve your ideal accommodation from a vast selection of hotels.
+        Our commitment to providing exceptional service extends around the clock, ensuring assistance whenever you need it, 24 hours a day, 7 days a week.</string>
+    <string name="book">BOOK NOW</string>
+    <string name="address">\nVisit Us \n </string>
+    <string name="map_heading">SW bookings\n  </string>
+    <string name="location">
+1234 Main Street \n
+Cityville, ST 12345\n
+United States</string>
+    <string name="map">
+        <a href="https://www.google.com/maps/dir//Mackinac+Island,+MI+49757/@45.8515824,-84.6614097,13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4d35f189aad9ae85:0xdfba14915cd6c1f7!2m2!1d-84.6189339!2d45.8491796?entry=ttu">View Location</a>
+    </string>
+    <string name="links">\n FOLLOW US </string>
+    <string name="booking_heading">Please Fill In Your Details</string>
+    <string name="cust_name">Full Name</string>
+    <string name="name_hint">enter name.</string>
+    <string name="cust_number">Phone Number</string>
+    <string name="number_hint">10 digit number.</string>
+    <string name="email">Email</string>
+    <string name="email_hint">example@yahoo.com</string>
+    <string name="fd">From Date</string>
+    <string name="fd_hint">MM/dd/yyyy.</string>
+    <string name="td">To Date</string>
+    <string name="td_hint">MM/dd/yyyy.</string>
+    <string name="submit">SUBMIT</string>
+    <string name="back">Go Back</string>
+    <string name="restaurant">\n Weekend Getaway Package \n</string>
+    <string name="breakfast"> \n \nEscape the hustle and bustle of daily life with our Weekend Getaway Package. Enjoy a relaxing two-night stay at our luxurious hotel, where you will be greeted with a warm welcome and exceptional hospitality. Indulge in comfortable accommodations, delectable dining experiences, and leisurely activities designed to rejuvenate your mind and body. Whether you are seeking romance, adventure, or simply a break from routine, our Weekend Getaway Package promises a memorable stay filled with relaxation and enjoyment. </string>
+    <string name="Family">\n Family Vacation Package \n </string>
+    <string name="Lunch_detail">\n\nCreate unforgettable memories with our Family Vacation Package, perfect for families seeking quality time together. Treat your loved ones to a fun-filled stay at our family-friendly resort, where excitement awaits at every turn. From spacious accommodations equipped with amenities for all ages to exciting recreational facilities including pools, playgrounds, and children s activities, there is something for everyone to enjoy. With complimentary meals for kids and special family-friendly events, our Family Vacation Package offers the ultimate retreat for bonding and laughter.</string>
+    <string name="Eve_details"> \n\nIgnite passion and romance with our Romantic Escape Package, tailored for couples seeking an intimate getaway. Indulge in luxurious accommodations adorned with rose petals and candlelight, setting the stage for a dreamy escape with your special someone. Savor delectable candlelit dinners at our award-winning restaurants, where gourmet cuisine and fine wines tantalize the taste buds. Relax and unwind together with rejuvenating spa treatments, private couples massages, and sunset strolls along the beach. With breathtaking views and personalized touches, our Romantic Escape Package promises an enchanting retreat for you and your beloved.</string>
+    <string name="Eve">\n Romantic Escape Package</string>
+    <string name="amenities">Hotel Amenities \n</string>
+    <string name="wifi">Premium Free WiFi</string>
+    <string name="bar">Lounge/Bar</string>
+    <string name="res">Restaurant</string>
+    <string name="pets">Pets Friendly</string>
+    <string name="camera">Surveillance Security</string>
+    <string name="valet">Valet Parking</string>
+    <string name="atm">ATM/Cash Machine</string>
+    <string name="cool">Air-Conditioned</string>
+    <string name="hall">Banquet Hall</string>
+    <string name="grill">Outdoor-grill</string>
+    <string name="deck">Sun Deck</string>
+    <string name="roomservice">24/7 Room Service</string>
+    <string name="houseKeeping">House-Keeping Daily</string>
+    <string name="pool">Indoor Pool</string>
+    <string name="event">Meeting/Event Space</string>
+    <string name="spa">Massage Therapist and SPA</string>
+    <string name="activity">\n Come and feel the \n Difference! \n</string>
+    <string name="activity_details"> \nAt Stay Well, our mission is to redefine your wellness journey through innovative features and personalized service. From intuitive navigation to seamless booking and exclusive wellness offers, we are committed to making your journey effortless and memorable. With Stay Well, every interaction is designed to exceed your expectations, bringing convenience and well-being to your fingertips.\n"</string>
+    <string name="more_details"><u>See More Info</u></string>
+    <string name="activity_title">\n Why Us?</string>
+    <string name="party_details">\n Experience the ease and convenience of booking your next hotel stay with Stay Well. Enjoy exclusive discounts, special offers, and seamless booking experiences right at your fingertips. With our user-friendly app, finding the perfect accommodation has never been easier. Whether you sre planning a weekend getaway or a business trip, Stay Well ensures you will enjoy exceptional savings and a stress-free booking process every time.\n \n
+
+Every Thursday we celebrate our magnificent \"Pool Party\" where we introduce our staff and where our customers can enjoy the foam party or our inflatable dolphin and taste our outdoor barbecue.</string>
+    <string name="child_activity">
+\n \n Your peace of mind is our priority at Stay Well. When you book with us, you not only gain access to unbeatable discounts and offers but also receive enhanced security throughout your entire vacation. We go the extra mile to ensure your safety and protection, offering added security measures that remain in place from the moment you book until the end of your stay. With Stay Well, you can relax and enjoy your trip knowing that your safety is our top concern</string>
+    <string name="Events">\n <b>Weddings and seasonal events</b> \n \n
+    Elevating your happily ever after is what we do best that\’s why our expert team works together to ensure that the catering menu is customized to your taste, the overall design is exactly what you want, and the ceremony is unforgettable.
+
+ \n \n Contact us today to learn more.</string>
+    <string name="spa_details">\n <b>Enjoy a spa day</b> \n \n
+        Indulge in ultimate relaxation with Stay Well. When you book with us, enjoy the added luxury of complimentary massages from spas within our partner hotels. Treat yourself to rejuvenating massages and pampering spa treatments, all included as part of your stay. With Stay Well, your comfort and well-being are our priority, ensuring you leave feeling refreshed, revitalized, and ready to take on the world. </string>
+    <string name="twin_name"><b>Serene Garden Resort</b></string>
+    <string name="twin_price">$400/night</string>
+    <string name="king_price">$500/night</string>
+    <string name="twin_description">\n A tranquil retreat nestled amidst lush greenery, providing a peaceful escape from the hustle and bustle of city life. \n Cottage-style accommodations surrounded by gardens \n Outdoor swimming pool and jacuzzi \n Yoga and meditation classes </string>
+    <string name="king"><b>Mountain View Lodge</b></string>
+    <string name="king_description">\n An idyllic mountain retreat surrounded by majestic peaks\n <b>a serene ambiance for nature lovers</b></string>
+    <string name="grand_name">Grand Vista Hotel</string>
+    <string name="grand_description">A luxurious hotel located in the heart of the city, offering breathtaking views of the skyline.\n Deluxe rooms with modern amenities
+\n Rooftop restaurant \nserving gourmet cuisine
+\nSpa and wellness center
+Fitness facilities</string>
+
+    <string name="grand_price">$900/night</string>
+    <string name="sea_price">$500/night</string>
+    <string name="sea_description">\n A charming beachfront inn offering cozy rooms with stunning ocean views, perfect for a relaxing getaway by the sea. \n Cottage-style accommodations surrounded by gardens \n Outdoor swimming pool and jacuzzi \n Yoga and meditation classes </string>
+    <string name="sea_name"><b>Ocean Breeze Inn</b></string>
+    <string name="subscribe">\n SUBSCRIBE TO THE NEWSLETTER IF YOU WANT TO BE THE FIRST TO RECEIVE OUR OFFERS</string>
+    <string name="subscribe_button">SUBSCRIBE</string>
+    <string name="dialog_title">\n Subscribe to our newsletter!</string>
+    <string name="dialog_name">Name</string>
+    <string name="dialog_email">Email</string>
+    <string name="hint_name">Enter name</string>
+    <string name="hint_email">Enter valid email</string>
+    <string name="description_facebook_icon">Facebook</string>
+    <string name="description_instagram_icon">Instagram</string>
+    <string name="description_tripadvisor_icon">TripAdvisor</string>
+    <string name="check_subscription">\n Check Your Subscription \n</string>
+
+
+</resources>
